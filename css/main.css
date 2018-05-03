@@ -1,68 +1,106 @@
 * {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -ms-box-sizing: border-box;
-    box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
 }
-
-html, body {
-    max-width: 100%;
-    overflow-x: hidden;
+html,
+body {
+	max-width: 100%;
+	overflow-x: hidden;
 }
-
 body,
 div,
 li,
 h1,
 h2 {
-  padding: 0;
-  margin: 0;
-  letter-spacing: 0.75px;
-  font-family: 'Raleway', sans-serif;
+	padding: 0;
+	margin: 0;
+	letter-spacing: 0.75px;
+	font-family: 'Raleway', sans-serif;
 }
-
 h1 {
-  font-family: 'Eczar', serif;
+	font-family: 'Eczar', serif;
 }
-
 .row {
-    display: flex;
-    display: -webkit-flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: flex-start;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	display: -webkit-flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: row;
+	flex-direction: row;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-box-pack: start;
+	-ms-flex-pack: start;
+	justify-content: flex-start;
 }
-
 header {
-  z-index: -1;
+	z-index: -1;
 }
-
 .header-links {
-  background-color: black;
+	background-color: black;
 }
-
 .header-links ul {
-  margin: 0;
-  padding: 10px 15px;
+	margin: 0;
+	padding: 10px 15px;
 }
-
 .header-links li {
-  color: white;
-  list-style-type: none;
-  font-size: 12px;
-  text-transform: uppercase;
-  padding: 2.5px 0;
+	color: white;
+	list-style-type: none;
+	font-size: 12px;
+	text-transform: uppercase;
+	padding: 2.5px 0;
 }
-
 .header-links a {
-  color: white;
-  text-decoration: none;
+	color: white;
+	text-decoration: none;
 }
-
 .title {
-  font-weight: lighter;
+	font-weight: lighter;
+	text-transform: capitalize;
 }
-
 article p {
-  text-align: justify;
+	text-align: justify;
+}
+.post {
+	margin-bottom: 25px;
+	margin-top: 10px;
+}
+.post-title {
+	text-decoration: none;
+	color: black;
+	text-transform: capitalize;
+}
+.entry p {
+	margin-bottom: 2.5px;
+}
+.entry img {
+	width: 100%;
+    margin: 0 5px;
+}
+.read-more {
+	font-size: 10px;
+	color: black;
+}
+.post-divider {
+	margin: 25px 0;
+}
+.post-end {
+	margin: 0 2vw;
+	width: 33vw;
+	height: 1px;
+	background-color: black;
+	border: none;
+}
+.pagination {
+	margin: 12px 0;
+}
+.pagination a {
+	color: black;
+}
+img.biopic {
+	float: right;
+	margin-left: 10px;
+	width: auto;
 }

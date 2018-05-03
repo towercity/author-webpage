@@ -1,5 +1,7 @@
 .row {
-  justify-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 header {
@@ -16,7 +18,7 @@ header {
 
 .header-links ul {
   margin: 0 auto;
-  width: 375px;
+	text-align: center;
 }
 
 .header-links li {
