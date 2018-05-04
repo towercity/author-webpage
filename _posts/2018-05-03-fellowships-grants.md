@@ -12,6 +12,8 @@ Thus (if you haven't already guessed) my reason for this blog post: over the nex
 
 For now, I'm setting these all out on a single page, but in the future I may move to giving grants individual pages, in order to make use of jekyll's tagging features.
 
+And, as a final note, all of these are either fully paid, have a chance to be fully paid, or come with a nice, comfortable stiped. This is a list for people like me, who have no wealth or savings.
+
 ### Grants ##
 
 #### Hodson Trust – John Carter Brown Library Fellowship  ####
