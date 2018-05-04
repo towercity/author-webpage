@@ -21,7 +21,7 @@ h1 {
 	font-family: 'Eczar', serif;
 }
 hr {
-	margin: 0 2vw;
+	margin: 25px 2vw;
 	width: 66%;
 	height: 1px;
 	background-color: black;
@@ -89,9 +89,6 @@ article p {
 .read-more {
 	font-size: 10px;
 	color: black;
-}
-.post-divider {
-	margin: 25px 0;
 }
 .pagination {
 	margin: 12px 0;
