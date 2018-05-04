@@ -32,6 +32,8 @@ __Requirements:__ For writers "working on significant projects relating to the l
 
 __Notes:__ This one, for its specificity, may be a good choice. I have a bent toward historical fiction, obviously, and this is a time (I assume) few people are writting about.
 
+---
+
 #### Key West Literary Seminar Emerging Writer Award ####
 
 __Webpage:__ [x](http://www.kwls.org/awards/emerging-writer-awards/)
@@ -50,12 +52,34 @@ __Requirements:__ A $12 application fee.
 
 __Notes:__ Not only is in nearby, Joyce Carol Oates AND Margaret Atwood will be there.
 
+---
+
+#### Madeleine P. Plonsker Emerging Writer’s Residency Prize ####
+
+__Webpage:__ [x](http://www.lakeforest.edu/academics/programs/english/press/plonsker.php)
+
+__Type:__ Fellowship
+
+__Due Date:__ Likely March 1st, 2019
+
+__Length:__ Three weeks in Spring 2020, likely.
+
+__Amount:__ $10,000 plus housing and meals
+
+__Location:__ Northern Chicago Suburbs, near Lake Michigan; Lake Forest College
+
+__Requirements:__ 20-30 pages from a manuscript in progress, one page statement of plans for completion, cover letter with "the basic details of your cv or resume: education, employment, significant publications, etc." 
+
+__Notes:__ This one is nice, but they only read the first 200 submissions. PLAN EARLY
+
+---
+
 ### Future Possibilities ###
 ie, fellowships that require book publications, etc.
 
 * [American Academy in Berlin](http://www.americanacademy.de/apply/apply-for-a-fellowship/)
 * [Hodder Fellowship, Princeton](http://arts.princeton.edu/fellowships/hodder-fellowship/)
 * [NEA Creative Writing Fellowships](https://www.arts.gov/grants-individuals/creative-writing-fellowships): I _am_ eligible for this, and it's for fiction this upcoming year, but thye haven't updated the information from poetry. Look at later.
-
-### Sources Used ##
- * [profellow](https://www.profellow.com/)
+* [Writers in Paradise](https://www.writersinparadise.com/): like NEA, I'm eligible; it's just not updated for 2019 yet. Check it, b/c it's short and close.
+* [Bard Fiction Prize](http://www.bard.edu/bfp/)
+* [1901 James Merrill House](http://jamesmerrillhouse.org/residency/writer-in-residence-program/): They offer both a 4 1/2 month residency and a few shorter ones throughout the year. The info isn't up yet, as the application window is closed, but it will likely go back up in October.
