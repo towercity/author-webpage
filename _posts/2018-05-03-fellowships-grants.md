@@ -38,7 +38,7 @@ __Notes:__ This one, for its specificity, may be a good choice. I have a bent to
 
 __Webpage:__ [x](http://www.kwls.org/awards/emerging-writer-awards/)
 
-__Type:__ Scholarship
+__Type:__ Retreat
 
 __Due Date:__ July 30th, 2018
 

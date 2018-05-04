@@ -20,6 +20,13 @@ h2 {
 h1 {
 	font-family: 'Eczar', serif;
 }
+hr {
+	margin: 0 2vw;
+	width: 66%;
+	height: 1px;
+	background-color: black;
+	border: none;
+}
 .row {
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -85,13 +92,6 @@ article p {
 }
 .post-divider {
 	margin: 25px 0;
-}
-.post-end {
-	margin: 0 2vw;
-	width: 33vw;
-	height: 1px;
-	background-color: black;
-	border: none;
 }
 .pagination {
 	margin: 12px 0;
