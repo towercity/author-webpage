@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fellowships and Grants"
+title: "Fellowships and Grants 2018 - 2019"
 date: 2018-05-03
 tags: [fellowships, grants, writing, money]
 category: grants
@@ -18,6 +18,8 @@ For now, I'm setting these all out on a single page, but in the future I may mov
 
 __Webpage:__ [x](https://www.washcoll.edu/centers/starr/fellowships/hodson-brown-fellowship.php)
 
+__Type:__ In-person fellowship
+
 __Due Date:__ Likely March 2019
 
 __Length:__ Four months
@@ -29,6 +31,24 @@ __Location:__ John Carter Brown Library, Brown Univeristy, Providence RI
 __Requirements:__ For writers "working on significant projects relating to the literature, history, culture, or art of the Americas before 1830... Candidates are encouraged to consult the John Carter Brown Library’s [collections](http://www.brown.edu/academics/libraries/john-carter-brown/about/collection) online prior to submitting an application."
 
 __Notes:__ This one, for its specificity, may be a good choice. I have a bent toward historical fiction, obviously, and this is a time (I assume) few people are writting about.
+
+#### Key West Literary Seminar Emerging Writer Award ####
+
+__Webpage:__ [x](http://www.kwls.org/awards/emerging-writer-awards/)
+
+__Type:__ Scholarship
+
+__Due Date:__ July 30th, 2018
+
+__Length:__ January 10 - 13th, 2019
+
+__Amount:__ Full tuition, airfare, lodging, and $500
+
+__Location:__ Key West 
+
+__Requirements:__ A $12 application fee.
+
+__Notes:__ Not only is in nearby, Joyce Carol Oates AND Margaret Atwood will be there.
 
 ### Future Possibilities ###
 ie, fellowships that require book publications, etc.
