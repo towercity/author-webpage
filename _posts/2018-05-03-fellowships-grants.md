@@ -76,6 +76,66 @@ __Notes:__ This one is nice, but they only read the first 200 submissions. PLAN 
 
 ---
 
+#### Kimmel Harding Nelson Center for the Arts ####
+
+__Webpage:__ [x](http://www.khncenterforthearts.org/application_process.php)
+
+__Type:__ Residency
+
+__Due Date:__ September 1st, 2018
+
+__Length:__ 2 - 8 weeks, Jauary - June
+
+__Amount:__ $100 a week, plus housing and studio space
+
+__Location:__ Nebraska City, NE (South east, near the border)
+
+__Requirements:__ A $35 application fee
+
+__Notes:__ They take special interests in Nebraskans and recent MFA grads. I'll be the second soon, and maybe my writings that take place in NE will give me a leg up.
+
+---
+
+#### Sewanee, of course ####
+
+__Webpage:__ [x](http://sewaneewriters.org/apply/)
+
+__Type:__ Conference
+
+__Due Date:__ Likely March 2019
+
+__Length:__ 12 days over the summer
+
+__Amount:__ Full scholorships (with room and board) are available
+
+__Location:__ South east TN
+
+__Requirements:__ Will likely be posted by end of year
+
+__Notes:__ They're so big a name that even I know about them. Likely, this means they are prestigous. 
+
+---
+
+#### Wesleyan Writer's Retreat ####
+
+__Webpage:__ [x](http://www.wesleyan.edu/writing/conference/scholarship.html)
+
+__Type:__ Conference
+
+__Due Date:__ Likely March 2019
+
+__Length:__ Half a week over the summer
+
+__Amount:__ Full scholorships (with room and board) are available
+
+__Location:__ CT
+
+__Requirements:__ ...
+
+__Notes:__ ...
+
+---
+
 ### Future Possibilities ###
 ie, fellowships that require book publications, etc.
 
