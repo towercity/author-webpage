@@ -83,3 +83,4 @@ ie, fellowships that require book publications, etc.
 * [Writers in Paradise](https://www.writersinparadise.com/): like NEA, I'm eligible; it's just not updated for 2019 yet. Check it, b/c it's short and close.
 * [Bard Fiction Prize](http://www.bard.edu/bfp/)
 * [1901 James Merrill House](http://jamesmerrillhouse.org/residency/writer-in-residence-program/): They offer both a 4 1/2 month residency and a few shorter ones throughout the year. The info isn't up yet, as the application window is closed, but it will likely go back up in October.
+* [Bread Loaf](http://www.middlebury.edu/bread-loaf-conferences/admissions): It's a good choice, but most scholarships require (soft and hard requirements both) prior publication; return once you're a known entity.
