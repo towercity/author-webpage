@@ -14,5 +14,16 @@ For now, I'm setting these all out on a single page, but in the future I may mov
 
 ### Grants ##
 
+#### Hodson Trust – John Carter Brown Library Fellowship  ####
+
+__Webpage:__ https://www.washcoll.edu/centers/starr/fellowships/hodson-brown-fellowship.php
+__Due Date:__ Likely March 2019
+__Length:__ Four months
+__Amount:__ $20,000, or $5,000 a month
+__Location:__ John Carter Brown Library, Brown Univeristy, Providence RI
+__Requirements:__ For writers "working on significant projects relating to the literature, history, culture, or art of the Americas before 1830... Candidates are encouraged to consult the John Carter Brown Library’s [collections](http://www.brown.edu/academics/libraries/john-carter-brown/about/collection) online prior to submitting an application. "
+__Notes:__ This one, for its specificity, may be a good choice. I have a bent toward historical fiction, obviously, and this is a time (I assume) few people are writting about.
+
+
 ### Sources Used ##
-[profellow](https://www.profellow.com/)
+ * [profellow](https://www.profellow.com/)
