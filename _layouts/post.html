@@ -2,25 +2,14 @@
 layout: default
 ---
 
-<article class="post">
-	<div class="pagehead-wrap">
-		<div class="title-wrap">
-			<h1 class="title">Jacob Konger</h1>
-		</div>
-		<div class="subtitle-wrap">
-			<h2 class="subtitle">{{page.title}}</h2>
-		</div>
-	</div>
+<div class="entry">
+	{{ content }}
+</div>
 
-	<div class="entry">
-		{{ content }}
-	</div>
+<div class="post-divider">
+	<hr class="post-end">
+</div>
 
-	<div class="post-divider">
-		<hr class="post-end">
-	</div>
-
-	<div class="date">
-		Posted {{ page.date | date: "%B %e, %Y" }}
-	</div>
-</article>
+<div class="date">
+	Posted {{ page.date | date: "%B %e, %Y" }}
+</div>
