@@ -30,6 +30,12 @@ __Requirements:__ For writers "working on significant projects relating to the l
 
 __Notes:__ This one, for its specificity, may be a good choice. I have a bent toward historical fiction, obviously, and this is a time (I assume) few people are writting about.
 
+### Future Possibilities ###
+ie, fellowships that require book publications, etc.
+
+* [American Academy in Berlin](http://www.americanacademy.de/apply/apply-for-a-fellowship/)
+* [Hodder Fellowship, Princeton](http://arts.princeton.edu/fellowships/hodder-fellowship/)
+* [NEA Creative Writing Fellowships](https://www.arts.gov/grants-individuals/creative-writing-fellowships): I _am_ eligible for this, and it's for fiction this upcoming year, but thye haven't updated the information from poetry. Look at later.
 
 ### Sources Used ##
  * [profellow](https://www.profellow.com/)
