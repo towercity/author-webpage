@@ -16,7 +16,7 @@ For now, I'm setting these all out on a single page, but in the future I may mov
 
 #### Hodson Trust – John Carter Brown Library Fellowship  ####
 
-__Webpage:__ https://www.washcoll.edu/centers/starr/fellowships/hodson-brown-fellowship.php
+__Webpage:__ [x](https://www.washcoll.edu/centers/starr/fellowships/hodson-brown-fellowship.php)
 
 __Due Date:__ Likely March 2019
 
