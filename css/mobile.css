@@ -7,7 +7,7 @@
 header {
   width: 100vw;
   height: 150px;
-  background: url("../images/side.jpg") center center no-repeat;
+  background: linear-gradient(white, #dbdbdb);
 }
 
 .header-links {
