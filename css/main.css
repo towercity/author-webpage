@@ -20,6 +20,24 @@ h2 {
 h1 {
 	font-family: 'Eczar', serif;
 }
+h3 {
+	font-size: 1.75em;
+	margin: 10px 0;
+}
+h4 {
+	margin: 0;
+  text-transform: uppercase;
+	font-size: 0.9em;
+}
+p {
+	font-size: 1.2em;
+}
+a:link {
+	color: grey;
+}
+a:visited {
+	color: grey;
+}
 hr {
 	margin: 25px 2vw;
 	width: 66%;
