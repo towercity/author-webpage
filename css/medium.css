@@ -4,7 +4,7 @@ header {
 	top: 0;
 	width: 33.333vw;
 	height: 100vh;
-	background: #ffb7c6 top left no-repeat;
+	background: linear-gradient(to right, #ffb7c6, white) top left no-repeat;
 }
 .header-links {
 	position: fixed;
