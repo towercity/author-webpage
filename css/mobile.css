@@ -29,7 +29,6 @@ header {
 .title {
   font-size: 45px;
   line-height: 45px;
-  text-align: center;
   padding-top: 5px;
 }
 
@@ -37,7 +36,7 @@ header {
   font-size: 18px;
   line-height: 18px;
   position: relative;
-  top: -12px;
+  top: -5px;
   left: 14px
 }
 
@@ -47,6 +46,10 @@ header {
 
 article {
   margin: 0 1.5vw;
+}
+
+.post {
+  margin-top: 0;
 }
 
 @media screen and (max-width: 359px) {
