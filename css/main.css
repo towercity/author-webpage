@@ -74,9 +74,10 @@ header {
 .header-links li {
 	color: white;
 	list-style-type: none;
-	font-size: 0.75em;
+	font-size: 2em;
 	text-transform: lowercase;
 	padding: 2.5px 0;
+	text-align: right;
 }
 .header-links a {
 	color: black;

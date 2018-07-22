@@ -8,8 +8,8 @@ header {
 }
 .header-links {
 	position: fixed;
-	width: 100px;
-	left: calc(33.333vw - 100px - 2vh);
+	width: 150px;
+	left: calc(33.333vw - 150px - 2vh);
 	bottom: 5vh;
 }
 .title-wrap {
