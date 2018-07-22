@@ -4,7 +4,7 @@ header {
 	top: 0;
 	width: 33.333vw;
 	height: 100vh;
-	background: linear-gradient(to right, #dbdbdb, white);
+	background: black;
 }
 .header-links {
 	position: fixed;
@@ -23,6 +23,8 @@ header {
 	line-height: 90px;
 	white-space: nowrap;
 	overflow: hidden;
+	color: white;
+	mix-blend-mode: difference;
 }
 .subtitle-wrap {
 	position: relative;
@@ -30,8 +32,9 @@ header {
 }
 .content {
 	position: absolute;
-	left: 34vw;
+	left: 33.33333vw;
 	width: 64vw;
+	background-color: white;
 }
 article {
 	width: 61.666vw;
