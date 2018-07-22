@@ -24,6 +24,7 @@ header {
 .header-links li {
   display: inline;
   padding: 0 2vw;
+  font-size: 1em;
 }
 
 .title {
