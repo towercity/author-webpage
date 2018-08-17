@@ -6,13 +6,13 @@ tags: [fellowships, grants, writing, money]
 category: grants
 ---
 
-I'm approaching the end of my MFA degree in the next year, which means if I want to be paid to write, I need to start looking at grants and fellowships. There's a lot of places that post these online though--a lot--and given the fact that thier due dates are often staggered across the year, and that I have a terrible brain for memorizing anything institutional, especially dates, I know I need a place to record them for myself. I could write them down, of course, but then I'm unable to update my records, or even reorganize them. 
+I'm approaching the end of my MFA degree in the next year, which means if I want to be paid to write, I need to start looking at grants and fellowships. There's a lot of places that post these online though--a lot--and given the fact that their due dates are often staggered across the year, and that I have a terrible brain for memorizing anything institutional, especially dates, I know I need a place to record them for myself. I could write them down, of course, but then I'm unable to update my records, or even reorganize them.
 
 Thus (if you haven't already guessed) my reason for this blog post: over the next few years and months I will be updating this space with information on grants and fellowships I come across, with maybe some information on my own application process. I'm doing this mostly for myself, but if you've happened to stumble upon it, feel free to you use it as your own database as well. I'm doing this for no money--not even exposure--but just for my own use, so at the very least you'll know it's somewhere you can trust.
 
 For now, I'm setting these all out on a single page, but in the future I may move to giving grants individual pages, in order to make use of jekyll's tagging features.
 
-And, as a final note, all of these are either fully paid, have a chance to be fully paid, or come with a nice, comfortable stiped. This is a list for people like me, who have no wealth or savings.
+And, as a final note, all of these are either fully paid, have a chance to be fully paid, or come with a nice, comfortable stipend.
 
 ### Grants ##
 
@@ -28,31 +28,11 @@ __Length:__ Four months
 
 __Amount:__ $20,000, or $5,000 a month
 
-__Location:__ John Carter Brown Library, Brown Univeristy, Providence RI
+__Location:__ John Carter Brown Library, Brown University, Providence RI
 
 __Requirements:__ For writers "working on significant projects relating to the literature, history, culture, or art of the Americas before 1830... Candidates are encouraged to consult the John Carter Brown Library’s [collections](http://www.brown.edu/academics/libraries/john-carter-brown/about/collection) online prior to submitting an application."
 
-__Notes:__ This one, for its specificity, may be a good choice. I have a bent toward historical fiction, obviously, and this is a time (I assume) few people are writting about.
-
----
-
-#### Key West Literary Seminar Emerging Writer Award ####
-
-__Webpage:__ [x](http://www.kwls.org/awards/emerging-writer-awards/)
-
-__Type:__ Retreat
-
-__Due Date:__ July 30th, 2018
-
-__Length:__ January 10 - 13th, 2019
-
-__Amount:__ Full tuition, airfare, lodging, and $500
-
-__Location:__ Key West 
-
-__Requirements:__ A $12 application fee.
-
-__Notes:__ Not only is in nearby, Joyce Carol Oates AND Margaret Atwood will be there.
+__Notes:__ This one, for its specificity, may be a good choice. I have a bent toward historical fiction, obviously, and this is a time (I assume) few people are writing about.
 
 ---
 
@@ -70,7 +50,7 @@ __Amount:__ $10,000 plus housing and meals
 
 __Location:__ Northern Chicago Suburbs, near Lake Michigan; Lake Forest College
 
-__Requirements:__ 20-30 pages from a manuscript in progress, one page statement of plans for completion, cover letter with "the basic details of your cv or resume: education, employment, significant publications, etc." 
+__Requirements:__ 20-30 pages from a manuscript in progress, one page statement of plans for completion, cover letter with "the basic details of your cv or resume: education, employment, significant publications, etc."
 
 __Notes:__ This one is nice, but they only read the first 200 submissions. PLAN EARLY
 
@@ -112,7 +92,7 @@ __Location:__ South east TN
 
 __Requirements:__ Will likely be posted by end of year
 
-__Notes:__ They're so big a name that even I know about them. Likely, this means they are prestigous. 
+__Notes:__ They're so big a name that even I know about them. Likely, this means they are prestigous.
 
 ---
 
@@ -126,7 +106,7 @@ __Due Date:__ Likely March 2019
 
 __Length:__ Half a week over the summer
 
-__Amount:__ Full scholorships (with room and board) are available
+__Amount:__ Full scholarships (with room and board) are available
 
 __Location:__ CT
 
