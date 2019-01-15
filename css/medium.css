@@ -4,7 +4,7 @@ header {
 	top: 0;
 	width: 33.333vw;
 	height: 100vh;
-	background: black;
+	background: url(../images/side.jpg);
 }
 .header-links {
 	position: fixed;
