@@ -7,7 +7,7 @@
 header {
   width: 100vw;
   height: 150px;
-  background: black;
+  background: url(../images/side.jpg) center center;
 }
 
 .header-links {
