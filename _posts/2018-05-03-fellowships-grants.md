@@ -14,7 +14,7 @@ For now, I'm setting these all out on a single page, but in the future I may mov
 
 And, as a final note, all of these are either fully paid, have a chance to be fully paid, or come with a nice, comfortable stipend.
 
-### Grants ##
+### Grants ###
 
 #### Hodson Trust – John Carter Brown Library Fellowship  ####
 
