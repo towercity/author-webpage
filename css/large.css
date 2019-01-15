@@ -26,3 +26,9 @@
     left: 24vw;
   }
 }
+
+@media screen and (min-width: 1500px) {
+  header {
+    background: url(/images/side_large.jpg) center center;
+  }
+}
