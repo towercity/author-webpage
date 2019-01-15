@@ -23,8 +23,7 @@ header {
 	line-height: 90px;
 	white-space: nowrap;
 	overflow: hidden;
-	color: white;
-	mix-blend-mode: difference;
+	color: black;
 }
 .subtitle-wrap {
 	position: relative;
