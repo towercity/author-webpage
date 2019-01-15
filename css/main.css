@@ -121,3 +121,9 @@ img.biopic {
 	margin-right: 10px;
 	width: auto;
 }
+
+@media screen and (min-height: 850px) {
+  header {
+    background: url(/images/side_large.jpg) center center;
+  }
+}
