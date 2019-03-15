@@ -34,19 +34,19 @@ _Note: because I've been using Anki to study Japanese from English, all examples
 
 Front:
 
-![front of J --> E](images/blog_media/JE_front.png)
+![front of J --> E](/images/blog_media/JE_front.png)
 
 The front of this card displays the vocab word in Japanese, as well as any tags you have on the card. The card above, for example, has the vocab word 中間. Many of the tags I use here are sources for the information on the card.
 
 Back:
 
-![back of J --> E](images/blog_media/back_1.png)
+![back of J --> E](/images/blog_media/back_1.png)
 
 The back of the card adds furigana for the Japanese vocab word, as well as audio and an English translation. Below this is an example sentence, along with (optional) audio, English translation, and reference picture (for example, something you might find on a subs2srs card). Finally, any notes or part of speech information you have is displayed at the very bottom.
 
 Most interestingly though (and most useful), if you have multiple sentences saved to your associated note (in this version, up to 3 sentences, though with a little bit of Anki knowledge it's very easy to add more), this template will choose to display one of your sentences at random. So, while your J --> E card might display the back picture above one review, the next time it might display this:
 
-![alternate back of J --> E](images/blog_media/back_2.png)
+![alternate back of J --> E](//images/blog_media/back_2.png)
 
 Everything's the same except the sentence.
 
@@ -56,19 +56,19 @@ _Note: because of how Anki processes audio on cards, if you have multiple audio 
 
 Front:
 
-![front of E --> J](images/blog_media/EJ_front.png)
+![front of E --> J](/images/blog_media/EJ_front.png)
 
 Pretty straightforwardly, this card shows an English word and asks you to guess the Japanese translation. As before, the back will display a randomly chosen sentence. In fact, the back will be exactly the same:
 
 Back:
 
-![back of E --> J](images/blog_media/back_1.png)
+![back of E --> J](/images/blog_media/back_1.png)
 
 ### 3. Listening
 
 Front:
 
-![front of listening](images/blog_media/listening.png)
+![front of listening](/images/blog_media/listening.png)
 
 For this card, you need to listen to a recording of a Japanese vocab word then both recognize the word and its meaning. Thus, the card is pretty simple: just an audio button.
 
@@ -76,7 +76,7 @@ _Note: if you'd like this card to autoplay but have the autoplay issue described
 
 Back:
 
-![back of Listening](images/blog_media/back_3.png)
+![back of Listening](/images/blog_media/back_3.png)
 
 This back should be pretty familiar now--all the information from before--but there is one wrinkle. Because of how Anki handles audio, as well as the need for listening cards to autoplay, the back of the card will only ever display the first sentence associated with the card's note. Imperfect? Yes. But it's functional.
 
@@ -84,7 +84,7 @@ This back should be pretty familiar now--all the information from before--but th
 
 Front:
 
-![front of listening](images/blog_media/listening.png)
+![front of listening](/images/blog_media/listening.png)
 
 Pretty familiar, right? This card works exactly the same as the basic listening card, except it asks you to recognize the audio of a full sentence rather than a single word. So, it looks the same.
 
@@ -92,19 +92,19 @@ If, though, you have an image associated with the sentence you're listening to, 
 
 Front:
 
-![front of listening](images/blog_media/listening_sent.png)
+![front of listening](/images/blog_media/listening_sent.png)
 
 The image will show up large and in focus, which looks very nice when you turn the card over to the back:
 
 Back:
 
-![back of Listening (Sentence)](images/blog_media/back_sent.png)
+![back of Listening (Sentence)](/images/blog_media/back_sent.png)
 
 It looks almost like a TV show with subtitles and translations underneath, with some extra information below that. I have the cards set up to display the associated Japanese vocab word and English definition, as well as tags and notes, but like all things Anki, you can change this.
 
 If you don't have an image, the back of the card looks like this:
 
-![back of Listening (Sentence)](images/blog_media/back_sent_2.png)
+![back of Listening (Sentence)](/images/blog_media/back_sent_2.png)
 
 ### 5. Sentence
 
@@ -112,13 +112,13 @@ The final major kind of card. This one asks you to read a sentence, then display
 
 Front:
 
-![font of sentence card](images/blog_media/sent_front.png)
+![font of sentence card](/images/blog_media/sent_front.png)
 
 It displays the sentence, nothing more.
 
 Back:
 
-![back of Sentence](images/blog_media/back_sent_2.png)
+![back of Sentence](/images/blog_media/back_sent_2.png)
 
 This back is exactly the same as the listening back: A translation, definition, tags.
 
@@ -126,11 +126,11 @@ If you have an image on your card, it will display big too, like so:
 
 Front:
 
-![font of sentence card](images/blog_media/sent_img.png)
+![font of sentence card](/images/blog_media/sent_img.png)
 
 Back:
 
-![back of Sentence](images/blog_media/back_sent.png)
+![back of Sentence](/images/blog_media/back_sent.png)
 
 Notice again how similar so many of these cards are: the goal is to make everything look almost identical, so that the focus of the cards is the vocabulary or sentence being studied, not the cards themselves. You are simply studying one small part of each note.
 
