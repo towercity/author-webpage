@@ -11,6 +11,10 @@ The other day I was talking to S-- about gameboy games my brother and I had as k
 
 Well, long story short, today I looked the game up, and not only did the title screen have vocal samples, the whole thing used audio samples--not just vocal samples ("Check!", "Checkmate!"), but also what I guess you would call music (the sound effects that play when each player moves). The audio quality is _very_ low, and there's no background music, just the strange samples. It's a really strange feel overall. The heavily affected sounds, together with the pixelated wizarldy old man on the title screen, gives the whole game a surreal, inhuman aesthetic. It seems nightmarish to me, but that's probably cause the game--a really basic chess game--affected my nightmares as a kid. Anyways, since I've built it up so much, check out the video below. It's really worth the 30 second watch.
 
-{% youtube a2wW1riLSss %}
+<div class="video">
+    <figure>
+        <iframe width="640" height="480" src="//www.youtube.com/embed/prFohBWIdQg" frameborder="0" allowfullscreen></iframe>
+    </figure>
+</div>
 
 [![Chessmaster screenshot](http://img.youtube.com/vi/a2wW1riLSss/0.jpg)](http://www.youtube.com/watch?v=a2wW1riLSss "Chessmaster screenshot")
