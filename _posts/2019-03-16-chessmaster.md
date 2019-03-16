@@ -13,8 +13,6 @@ Well, long story short, today I looked the game up, and not only did the title s
 
 <div class="video">
     <figure>
-        <iframe width="640" height="480" src="//www.youtube.com/embed/prFohBWIdQg" frameborder="0" allowfullscreen></iframe>
+        <iframe width="640" height="480" src="//www.youtube.com/embed/a2wW1riLSss" frameborder="0" allowfullscreen></iframe>
     </figure>
 </div>
-
-[![Chessmaster screenshot](http://img.youtube.com/vi/a2wW1riLSss/0.jpg)](http://www.youtube.com/watch?v=a2wW1riLSss "Chessmaster screenshot")
